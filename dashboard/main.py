@@ -1,6 +1,7 @@
 import streamlit as st
 from app.endpoints import get_all_data
 
+
 # Configurações da página
 st.set_page_config(page_title="Dashboard de Monitoramento", layout="wide")
 
